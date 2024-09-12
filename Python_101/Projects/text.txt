@@ -1,0 +1,10 @@
+The quick brown fox jumps over the lazy dog. This sentence contains all the letters of the alphabet in order, making it a great test for typing speed.",
+The quick brown fox jumps over the lazy dog. Pack my box with five dozen liquor jugs.",
+Sphinx of black quartz, judge my vow. How quickly daft jumping zebras vex.",
+Mary had a little lamb, its fleece was white as snow. And everywhere that Mary went, the lamb was sure to go.",
+To be, or not to be, that is the question: Whether 'tis nobler in the mind to suffer the slings and arrows of outrageous fortune, or to take arms against a sea of troubles and by opposing end them.",
+In three words I can sum up everything I've learned about life: it goes on.",
+The only way to do great work is to love what you do. If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.",
+It is not the strongest of the species that survives, nor the one most intelligent. It is the one most responsive to change.",
+The only thing we have to fear is fear itself. In the face of adversity, remember to embrace change, for it is through change that we grow stronger and more resilient.",
+The future belongs to those who believe in the beauty of their dreams."
